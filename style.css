@@ -103,7 +103,6 @@ ul {
     color: #AE0E0E;
 }
 img {
-    width: 300px;
-    height: auto;
-    border: 1px solid #fff;
+    display: block;
+    margin: 0 auto;
 }
