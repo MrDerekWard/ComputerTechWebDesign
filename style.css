@@ -5,6 +5,12 @@ body {
     margin: 0;
     padding: 0;
 }
+<style>
+  body {
+    color: #fff; /* Set the text color to white */
+  }
+</style>
+
 
 header {
     background-color: #190a31;
