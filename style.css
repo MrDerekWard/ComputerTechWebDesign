@@ -105,6 +105,14 @@ ul {
 img {
         color: #AE0E0E;
 }
+.image-container {
+    display: flex;
+}
+
+.image-container img {
+    flex: 1;
+    margin-right: 10px; /* Optional: Adjust the margin between the images */
+}
 img {
     width: 300px;
     height: auto;
